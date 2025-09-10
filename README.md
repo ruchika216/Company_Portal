@@ -19,13 +19,13 @@ A mobile portal for company associates to manage their sessions, schedules, reso
 > _Place these images in an `assets` folder at the root of your repository._
 
 ### Home Dashboard
-![Home Screen](assets/image1.jpg)
+![Home Screen](src/assets/image1.jpeg)
 
 ### Go Online Confirmation
-![Go Online Confirmation](assets/image2.jpg)
+![Go Online Confirmation](src/assets/image2.jpeg)
 
 ### Schedule View
-![Schedule View](assets/image3.jpg)
+![Schedule View](src/assets/image3.jpeg)
 
 ---
 
